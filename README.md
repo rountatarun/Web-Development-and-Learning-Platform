@@ -1,5 +1,7 @@
 # 🚀 Tarun Dev | Web Development Learning Platform
 
+[![Live Demo](https://img.shields.io/badge/Live-Website-brightgreen?style=for-the-badge&logo=github)](https://rountatarun.github.io/Web-Development-and-Learning-Platform/)
+
 A comprehensive, modern, and interactive personal web development learning platform and portfolio website built with pure **HTML5**, **CSS3**, and **JavaScript**. This platform is designed to track web development learning progress, provide in-depth notes from basic to advanced, structured roadmaps, and an interactive real-code practice system.
 
 ---
@@ -28,16 +30,16 @@ A comprehensive, modern, and interactive personal web development learning platf
 ## 📂 Project Structure
 
 ```text
-├── index.html       # Main HTML markup containing all sections & notes layout
-├── style.css        # Complete custom design system & responsive styling
-└── script.js        # Interactive scripts (Copy email, form handling, practice execution logic)
-
+├── index.html        # Main HTML markup containing all sections & notes layout
+├── style.css         # Complete custom design system & responsive styling
+├── script.js         # Interactive scripts (Copy email, form handling, practice execution logic)
+└── notes/            # Folder containing PDF handwritten notes (HTML, CSS, JavaScript)
 
 ⚙️ How to Run Locally
 Clone this repository or download the ZIP file:
 
 Bash
-git clone [https://github.com/rountatarun/rountatarun.github.io.git](https://github.com/rountatarun/rountatarun.github.io.git)
+git clone [https://github.com/rountatarun/Web-Development-and-Learning-Platform.git](https://github.com/rountatarun/Web-Development-and-Learning-Platform.git)
 Open the project folder in your code editor (e.g., VS Code).
 
 Open index.html directly in your browser or run it using the Live Server extension for real-time reloading.
@@ -46,5 +48,7 @@ Open index.html directly in your browser or run it using the Live Server extensi
 Tarun Dev
 
 GitHub: @rountatarun
+
+Live Platform: View Website
 
 ⭐ If you found this project helpful or inspiring, feel free to give it a star!
